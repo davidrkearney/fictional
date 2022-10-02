@@ -1,0 +1,41 @@
+{
+  "about.qmd": {
+    "about.html": "62313c69"
+  },
+  "index.qmd": {
+    "index.html": "ce318ebb"
+  },
+  "posts/2021-06-19-health_data.ipynb": {
+    "2021-06-19-health_data.html": "288224c0"
+  },
+  "posts/welcome/index.qmd": {
+    "index.html": "933c4c9b"
+  },
+  "posts/post-with-code/index.qmd": {
+    "index.html": "7f6ea38c"
+  },
+  "posts/2021-06-10-regression-pycaret-2.ipynb": {
+    "2021-06-10-regression-pycaret-2.html": "2362ee22"
+  },
+  "posts/2021-06-05-causalml-uplift_tree_visualization.ipynb": {
+    "2021-06-05-causalml-uplift_tree_visualization.html": "49a476eb"
+  },
+  "posts/2021-06-05-causalml-tree-based-models.ipynb": {
+    "2021-06-05-causalml-tree-based-models.html": "4da3b850"
+  },
+  "posts/2021-06-03-model-inspection.ipynb": {
+    "2021-06-03-model-inspection.html": "6354e92e"
+  },
+  "posts/2021-06-04-imbalanced-data.ipynb": {
+    "2021-06-04-imbalanced-data.html": "10cd45f8"
+  },
+  "test.md": {
+    "test.html": "4a826d00"
+  },
+  "posts/2020-08-30-NLP with Pyspark.ipynb": {
+    "2020-08-30-nlp with pyspark.html": "bd5c5c03"
+  },
+  "posts/2020-08-29-Clustering with Pyspark.ipynb": {
+    "2020-08-29-clustering with pyspark.html": "67fe7e10"
+  }
+}
