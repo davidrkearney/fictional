@@ -2,46 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://davidrkearney.github.io/fictional/about.html</loc>
-    <lastmod>2022-10-02T02:32:49.631Z</lastmod>
+    <lastmod>2022-10-02T02:33:26.475Z</lastmod>
   </url>
   <url>
     <loc>https://davidrkearney.github.io/fictional/test.html</loc>
-    <lastmod>2022-10-02T02:32:49.939Z</lastmod>
+    <lastmod>2022-10-02T02:33:26.787Z</lastmod>
   </url>
   <url>
     <loc>https://davidrkearney.github.io/fictional/index.html</loc>
-    <lastmod>2022-10-02T02:32:50.407Z</lastmod>
+    <lastmod>2022-10-02T02:33:27.219Z</lastmod>
   </url>
   <url>
     <loc>https://davidrkearney.github.io/fictional/posts/2021-06-19-health_data.html</loc>
-    <lastmod>2022-10-02T02:32:50.939Z</lastmod>
+    <lastmod>2022-10-02T02:33:27.711Z</lastmod>
   </url>
   <url>
     <loc>https://davidrkearney.github.io/fictional/posts/2021-06-10-regression-pycaret-2.html</loc>
-    <lastmod>2022-10-02T02:32:51.595Z</lastmod>
+    <lastmod>2022-10-02T02:33:28.251Z</lastmod>
   </url>
   <url>
     <loc>https://davidrkearney.github.io/fictional/posts/welcome/index.html</loc>
-    <lastmod>2022-10-02T02:32:51.879Z</lastmod>
-  </url>
-  <url>
-    <loc>https://davidrkearney.github.io/fictional/posts/2021-06-05-causalml-uplift_tree_visualization.html</loc>
-    <lastmod>2022-10-02T02:32:52.271Z</lastmod>
+    <lastmod>2022-10-02T02:33:28.499Z</lastmod>
   </url>
   <url>
     <loc>https://davidrkearney.github.io/fictional/posts/post-with-code/index.html</loc>
-    <lastmod>2022-10-02T02:32:52.535Z</lastmod>
-  </url>
-  <url>
-    <loc>https://davidrkearney.github.io/fictional/posts/2021-06-05-causalml-tree-based-models.html</loc>
-    <lastmod>2022-10-02T02:32:52.871Z</lastmod>
-  </url>
-  <url>
-    <loc>https://davidrkearney.github.io/fictional/posts/2021-06-03-model-inspection.html</loc>
-    <lastmod>2022-10-02T02:32:53.327Z</lastmod>
-  </url>
-  <url>
-    <loc>https://davidrkearney.github.io/fictional/posts/2021-06-04-imbalanced-data.html</loc>
-    <lastmod>2022-10-02T02:32:53.799Z</lastmod>
+    <lastmod>2022-10-02T02:33:28.771Z</lastmod>
   </url>
 </urlset>
