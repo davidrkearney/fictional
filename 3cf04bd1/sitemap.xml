@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://davidrkearney.github.io/fictional/about.html</loc>
+    <lastmod>2022-10-02T02:43:40.759Z</lastmod>
+  </url>
+  <url>
+    <loc>https://davidrkearney.github.io/fictional/index.html</loc>
+    <lastmod>2022-10-02T02:43:41.179Z</lastmod>
+  </url>
+  <url>
+    <loc>https://davidrkearney.github.io/fictional/posts/2020-08-30-nlp with pyspark.html</loc>
+    <lastmod>2022-10-02T02:43:41.695Z</lastmod>
+  </url>
+  <url>
+    <loc>https://davidrkearney.github.io/fictional/posts/2020-08-29-clustering with pyspark.html</loc>
+    <lastmod>2022-10-02T02:43:42.055Z</lastmod>
+  </url>
+  <url>
+    <loc>https://davidrkearney.github.io/fictional/posts/welcome/index.html</loc>
+    <lastmod>2022-10-02T02:43:42.351Z</lastmod>
+  </url>
+  <url>
+    <loc>https://davidrkearney.github.io/fictional/posts/post-with-code/index.html</loc>
+    <lastmod>2022-10-02T02:43:42.611Z</lastmod>
+  </url>
+</urlset>
