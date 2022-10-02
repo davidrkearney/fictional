@@ -4,7 +4,12 @@
     "items": [
       "/posts/post-with-code/index.html",
       "/posts/welcome/index.html",
-      "/posts/2021-06-19-health_data.html"
+      "/posts/2021-06-19-health_data.html",
+      "/posts/2021-06-10-regression-pycaret-2.html",
+      "/posts/2021-06-05-causalml-uplift_tree_visualization.html",
+      "/posts/2021-06-05-causalml-tree-based-models.html",
+      "/posts/2021-06-04-imbalanced-data.html",
+      "/posts/2021-06-03-model-inspection.html"
     ]
   }
 ]
